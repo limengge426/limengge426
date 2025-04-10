@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [你的名字]!
+# 👋 Hi, I'm Limeng Ge!
 
-欢迎来到我的 GitHub！🚀
+欢迎来到我的 GitHub！(^-^)
 
 ## 🧑‍💻 About Me
 
@@ -10,7 +10,7 @@
 - 🛠️ Side Projects：AI 求职助手、知识库问答系统
 - ✍️ 爱好：写作、阅读、产品设计
 
----
+
 
 ## 🚀 My Skill Set
 
@@ -22,14 +22,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![你的GitHub用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)
-
----
-
-## ✨ Visitors
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=你的GitHub用户名.你的GitHub用户名)
