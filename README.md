@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Limeng Ge!
 
-欢迎来到我的 GitHub (＞人＜;)……
+欢迎来到我的 GitHub!
 
 ## 🧑‍💻 About Me
 
