@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Limeng Ge!
 
-欢迎来到我的 GitHub！(^-^)
+欢迎来到我的 GitHub！(＞人＜;)
 
 ## 🧑‍💻 About Me
 
-- 🎓 华东师范大学 / 哲学专业 / 交换生 @ NYU
-- 💡 研究兴趣：AI 产品设计 / 数据分析 / 哲学与人工智能交叉
-- 🌱 正在学习：Prompt 工程 / RAG / Agent / FastAPI / dify / coze
-- 🛠️ Side Projects：AI 求职助手、知识库问答系统
-- ✍️ 爱好：写作、阅读、产品设计
-
-
+- 🎓 华东师范大学哲学本科在读 / 交换生 @ NYU
+- 💡 学术兴趣 人工智能哲学 / 认知科学 / 计算语言学
+- 😾 略懂 数据分析 / 前端 
+- 🌱 正在学习：NLP / Prompt工程 / RAG / Agent / FastAPI / dify / coze
+- 🎮 臭打游戏的 / bug制造者
+  
 
 ## 🚀 My Skill Set
 
