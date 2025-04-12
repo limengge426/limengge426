@@ -8,7 +8,7 @@
 - 💡 学术兴趣： 人工智能哲学 / 认知科学 / 计算语言学
 - 🙆 略懂： 数据分析 / 前端 
 - 🌱 正在学习：NLP / Prompt工程 / RAG / Agent / FastAPI / dify / coze
-- 🎮 臭打游戏的 / 写码废物 
+- 🎮 臭打游戏的 / 写码废物 /
   
 
 ## 🚀 My Skill Set
