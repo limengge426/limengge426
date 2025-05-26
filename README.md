@@ -5,9 +5,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Junior at [@ECNU](https://www.ecnu.edu.cn) [@NYU](https://www.nyu.edu/)
-- 💡 Philosophy of AI / Cognitive Science / Computational Linguistics
-- 🙆 Data analytics / Front-end 
-- 🌱 Still Learning: NLP / Prompt Engineering / RAG / dify / coze
 - 🎮 臭打游戏的 / 写码废物 
   
 
