@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Limeng Ge!
 
-## 🧑‍💻 About Me
-
 - 🎓 Junior at [@ECNU](https://www.ecnu.edu.cn) [@NYU](https://www.nyu.edu/)
   
 
