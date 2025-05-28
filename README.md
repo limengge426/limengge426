@@ -3,7 +3,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Junior at [@ECNU](https://www.ecnu.edu.cn) [@NYU](https://www.nyu.edu/)
-- 🎮 臭打游戏的 / 写码废物 
   
 
 ## 🚀 My Skill Set
