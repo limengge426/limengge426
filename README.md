@@ -1,6 +1,6 @@
 # Hi, I'm Limeng Ge!
 
- Junior at [@ECNU](https://www.ecnu.edu.cn) [@NYU](https://www.nyu.edu/)
+ Senior at [@ECNU](https://www.ecnu.edu.cn) [@NYU](https://www.nyu.edu/)
   
 
 ## My Skill Set
