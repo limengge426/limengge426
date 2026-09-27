@@ -6,7 +6,7 @@
   Limeng (Chloe) Ge
 </h1>
 
-M.S. student in Computer Science at the **University of Chicago**. I work on how LLMs reason (and where they only pattern-match), LLM post-training, and making what models produce auditable. Before this: a B.A. in philosophy at East China Normal University and an ML engineering internship at SHEIN.
+M.S. student in Computer Science at the **University of Chicago**. I work on how LLMs reason, LLM post-training, and making what models produce auditable. Before this: a B.A. in philosophy at East China Normal University and an ML engineering internship at SHEIN.
 
 [Website](https://limengge426.github.io) · [Google Scholar](https://scholar.google.com/citations?user=vw06yrsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/limengge0426/) · limengge@uchicago.edu
 
