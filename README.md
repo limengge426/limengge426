@@ -29,12 +29,6 @@ Code and benchmark for my AAAI 2026 paper: 11,000 syllogisms show that five fron
 </tr>
 </table>
 
-### Publications
-
-- **Consistent Biases in Large Language Models' Syllogistic Reasoning.** AAAI 2026 Bridge on Logical and Symbolic Reasoning in Language Models. [[paper]](https://openreview.net/pdf?id=fMIpSy6NVW)
-- **From Output Quality to Auditability: A Data Mining Agenda for LLM-Generated Artifacts.** With Mingjia Qian. ICDM 2026 BlueSky Track (accepted).
-
-More on [my website](https://limengge426.github.io/research.html).
 
 ### Tools I use
 
